@@ -41,3 +41,17 @@ In the course of training I created projects:
 2. [Application for setting tasks] (http://mytesttut.zzz.com.ua/)
 
 ************
+
+## Education
+
+* Vitebsk technological University
+
+* Vitebsk Polytechnic College
+
+* Computer Academy STEP
+
+************
+
+## English 
+
+A1 Beginner
