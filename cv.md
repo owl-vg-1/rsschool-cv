@@ -32,3 +32,12 @@ I am ready to work and develop in areas that will be useful to the company. I ca
 * Composer
 
 ************
+
+## Code examples and Experience
+
+In the course of training I created projects:
+1. [Tracking the status of objects in a construction organization] (https://github.com/owl-vg-1/my-organization)
+
+2. [Application for setting tasks] (http://mytesttut.zzz.com.ua/)
+
+************
