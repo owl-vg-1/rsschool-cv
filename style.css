@@ -1,2 +1,10 @@
-* {
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.resume {
+	
+	width: 1024px;
+	background-color: cornflowerblue;
 }
